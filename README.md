@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:C71585,100:000000&height=220&section=header&text=NITHYA%20AISHWARYA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20%26%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=FF69B4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:C71585,100:000000&height=220&section=header&text=NITHYA%20AISHWARYA&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=FF69B4" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Machine+Learning+%7C+Computer+Vision+%7C+NLP;ACL+Tear+Detection+on+MRNet+MRI+Scans;Oracle+Certified+Java+SE+17+Professional;Salesforce+Certified+Developer" alt="Typing SVG" />
 
