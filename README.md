@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Machine+Learning+%7C+Computer+Vision+%7C+NLP;ACL+Tear+Detection+on+MRNet+MRI+Scans;Oracle+Certified+Java+SE+17+Professional;Salesforce+Certified+Developer" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/B.Tech-Computer_Science-831843?style=for-the-badge&logoColor=white" alt="Degree"/>
-<img src="https://img.shields.io/badge/Location-Vijayawada,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=FF69B4" alt="Location"/>
-<img src="https://img.shields.io/badge/Focus-ML_%2F_Computer_Vision-C71585?style=for-the-badge&logoColor=white" alt="Focus"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer_Science-831843?style=for-the-badge&logoColor=white" alt="Degree"/>&nbsp;<img src="https://img.shields.io/badge/Location-Vijayawada,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=FF69B4" alt="Location"/>&nbsp;<img src="https://img.shields.io/badge/Focus-ML_%2F_Computer_Vision-C71585?style=for-the-badge&logoColor=white" alt="Focus"/>
 
 </div>
 
